@@ -48,6 +48,7 @@ namespace Bus_Catch
         private void button1_Click(object sender, EventArgs e)
         {
             make_new_network();
+            // add new btngan just for test
         }
     }
 }
