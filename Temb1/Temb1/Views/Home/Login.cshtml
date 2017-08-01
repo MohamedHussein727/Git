@@ -1,0 +1,30 @@
+﻿@model LMS.Model.Entites.user
+@{
+    //Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div> 
+       @using (Html.BeginForm("LogIn", "Home", FormMethod.Post))
+       {
+        @Html.AntiForgeryToken()
+
+        @Html.LabelFor(r => Model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.EditorFor(r => Model.User_Name, new { htmlAttributes = new { @class = "form-control" } })
+           <br />
+        @Html.LabelFor(r => Model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.EditorFor(r => Model.Password, new { htmlAttributes = new { @class = "form-control" } })
+           <br />
+        <input type="submit" value="LogIN" class="btn btn-default" />
+
+       }
+    </div>
+</body>
+</html>

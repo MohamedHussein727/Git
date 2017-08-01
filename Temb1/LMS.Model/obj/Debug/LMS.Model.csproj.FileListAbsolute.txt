@@ -1,0 +1,19 @@
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\bin\Debug\LMS.Model.dll.config
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\bin\Debug\LMS.Model.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\bin\Debug\LMS.Model.pdb
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\bin\Debug\EntityFramework.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\bin\Debug\EntityFramework.xml
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\obj\Debug\LMS.Model.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\LMS.Model\obj\Debug\LMS.Model.pdb
+D:\Git\Temb1\LMS.Model\bin\Debug\LMS.Model.dll.config
+D:\Git\Temb1\LMS.Model\bin\Debug\LMS.Model.dll
+D:\Git\Temb1\LMS.Model\bin\Debug\LMS.Model.pdb
+D:\Git\Temb1\LMS.Model\bin\Debug\EntityFramework.dll
+D:\Git\Temb1\LMS.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\Temb1\LMS.Model\bin\Debug\EntityFramework.xml
+D:\Git\Temb1\LMS.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\Temb1\LMS.Model\obj\Debug\LMS.Model.csprojResolveAssemblyReference.cache
+D:\Git\Temb1\LMS.Model\obj\Debug\LMS.Model.dll
+D:\Git\Temb1\LMS.Model\obj\Debug\LMS.Model.pdb

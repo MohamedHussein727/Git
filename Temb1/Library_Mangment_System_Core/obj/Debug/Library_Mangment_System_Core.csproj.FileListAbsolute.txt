@@ -1,0 +1,26 @@
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\Library_Mangment_System_Core.dll.config
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\Library_Mangment_System_Core.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\Library_Mangment_System_Core.pdb
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\EntityFramework.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\LMS.Model.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\LMS.Model.pdb
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\LMS.Model.dll.config
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\EntityFramework.xml
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\obj\Debug\Library_Mangment_System_Core.csprojResolveAssemblyReference.cache
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\obj\Debug\Library_Mangment_System_Core.dll
+C:\Users\hamad\OneDrive\Documents\Visual Studio 2017\Projects\Temb1\Library_Mangment_System_Core\obj\Debug\Library_Mangment_System_Core.pdb
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\Library_Mangment_System_Core.dll.config
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\Library_Mangment_System_Core.dll
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\Library_Mangment_System_Core.pdb
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\EntityFramework.dll
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\LMS.Model.dll
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\LMS.Model.pdb
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\LMS.Model.dll.config
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\EntityFramework.xml
+D:\Git\Temb1\Library_Mangment_System_Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\Temb1\Library_Mangment_System_Core\obj\Debug\Library_Mangment_System_Core.csprojResolveAssemblyReference.cache
+D:\Git\Temb1\Library_Mangment_System_Core\obj\Debug\Library_Mangment_System_Core.dll
+D:\Git\Temb1\Library_Mangment_System_Core\obj\Debug\Library_Mangment_System_Core.pdb
